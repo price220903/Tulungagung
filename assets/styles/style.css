@@ -211,6 +211,10 @@ footer {
         font-size: 15px;
         width: auto;
     }
+
+    .profile img{
+        width: auto;
+    }
     
     .topnav a {
         display: none;
