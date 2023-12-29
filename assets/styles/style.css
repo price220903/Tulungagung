@@ -233,7 +233,7 @@ footer {
 
 @media screen and (max-width: 600px) {
     .topnav.responsive {
-        position: relative;
+        position: sticky;
     }
 
     .topnav.responsive a.icon {
