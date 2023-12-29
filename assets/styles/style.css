@@ -205,7 +205,13 @@ footer {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
+
+    .jumbotron {
+        font-size: 15px;
+        width: auto;
+    }
+    
     .topnav a {
         display: none;
     }
@@ -220,7 +226,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .topnav.responsive {
         position: relative;
     }
