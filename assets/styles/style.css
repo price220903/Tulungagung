@@ -212,8 +212,9 @@ footer {
         width: auto;
     }
 
-    .profile img{
-        width: 150px;
+    .profile img {
+        width: 100%;
+        height: auto;
     }
     
     .topnav a {
